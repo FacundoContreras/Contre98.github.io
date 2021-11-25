@@ -1841,8 +1841,9 @@
   }
 
   .u-section-11 .u-layout-wrap-1 {
-    width: 340px;
-    margin-left: -14px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-11 .u-layout-cell-1 {
@@ -1898,7 +1899,8 @@
   }
 
   .u-section-11 .u-line-1 {
-    width: 340px;
-    margin-left: -14px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }
