@@ -8,7 +8,7 @@ $form = array(
     'success_redirect' => '',
     'sendIpAddress' => true,
     'email' => array(
-    'from' => 'reservasweb@refugiodeglaciares.com',
+    'from' => '',
     'to' => 'info@refugiodeglaciares.com'
     ),
     'fields' => array(
