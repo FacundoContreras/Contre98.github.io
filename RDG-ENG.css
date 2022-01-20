@@ -1,6 +1,6 @@
  .u-section-1 {
-  background-image: url("images/_A7375341.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/Chalten.jpg");
+  background-position: 50% 100%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -1253,9 +1253,10 @@
 
 .u-section-6 .u-carousel-control-2 {
   position: absolute;
-  right: 10px;
   width: 40px;
   height: 40px;
+  left: auto;
+  right: 10px;
 }
 
 .u-section-6 .u-group-1 {
