@@ -1,6 +1,6 @@
  .u-section-1 {
-  background-image: url("images/_A737534.jpg");
-  background-position: 50% 100%;
+  background-image: url("images/_A7375341.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -1180,7 +1180,7 @@
   }
 } .u-section-6 {
   background-image: none;
-  min-height: 602px;
+  min-height: 603px;
 }
 
 .u-section-6 .u-text-1 {
@@ -1189,7 +1189,7 @@
 
 .u-section-6 .u-gallery-1 {
   height: 396px;
-  margin-top: 32px;
+  margin-top: 33px;
   margin-bottom: 0;
 }
 
@@ -1260,7 +1260,7 @@
 
 .u-section-6 .u-group-1 {
   margin-bottom: 1px;
-  margin-top: 1px;
+  margin-top: 0;
   min-height: 61px;
 }
 
@@ -1282,10 +1282,6 @@
   .u-section-6 .u-text-1 {
     width: auto;
     margin-top: 32px;
-  }
-
-  .u-section-6 .u-gallery-1 {
-    margin-top: 33px;
   }
 
   .u-section-6 .u-group-1 {
